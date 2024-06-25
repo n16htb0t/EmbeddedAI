@@ -1,0 +1,16 @@
+FCC ID: FCC ID FCC3JHFMV150
+Model Information: Norsat International Inc Satellite Receiver 3JHFMV150
+Application: N/A
+Equipment Class: N/A
+Short Link: N/A
+Sources:
+Registered By: N/A
+Operating Frequencies:
+{'Frequency Range': '1 Original Equipment 1993-06-07 4uwzYQDJgFAnhtC7KjCt4Q==', 'Power Output': 'Original Equipment 1993-06-07 4uwzYQDJgFAnhtC7KjCt4Q==', 'Rule Parts': '1993-06-07 4uwzYQDJgFAnhtC7KjCt4Q==', 'Line Entry': '4uwzYQDJgFAnhtC7KjCt4Q=='}
+Exhibits:
+Datasheet Files:
+stm32f205rb.pdf
+stm32f205rb.pdf
+Additional PDF Files:
+stm32f205rb.pdf
+PCB Image: Ztex_jpg.rf.bb875631f030ddac8b7fda7ac4401b61.jpg
