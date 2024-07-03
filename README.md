@@ -1,1 +1,1 @@
-# Ai_bot_Embedded_Sec
+# Embedded AI
